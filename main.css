@@ -1,0 +1,27 @@
+body {
+    font: Courier New, monospace;
+}
+
+.body-header {
+    text-align: center;
+}
+
+.navbar {
+    background-color:cornflowerblue;
+    padding: 5px;
+    text-align: right;
+}
+.navbar li {
+    list-style-type: none;
+    display: inline;
+    margin: 5px;
+}
+
+.navbar a {
+    text-decoration: none;
+}
+
+.profile-image img{
+    border-radius: 50%;
+    padding-left: 5px;
+}
